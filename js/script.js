@@ -11,6 +11,9 @@ menuIcon.onclick = () => {
   navbar.classList.toggle("active");
 }
 
+function downloadCV() {
+    window.location.href = 'downloads/Maitrisuthar.pdf';  
+}
 window.onscroll = () => {
   sections.forEach((sec) => {
     let top = window.scrollY;
