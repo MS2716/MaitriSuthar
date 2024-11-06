@@ -12,7 +12,7 @@ menuIcon.onclick = () => {
 }
 
 function downloadCV() {
-    window.location.href = 'download/Maitrisuthar.pdf';  
+    window.location.href = 'https://github.com/MS2716/MaitriSuthar/tree/main/download/Maitrisuthar.pdf';  
 }
 window.onscroll = () => {
   sections.forEach((sec) => {
